@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-01 00:00:00-1200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started as a student researcher at [Google DeepMind](https://www.deepmind.com/) (GenAI) working on active prompt selection for online direct preference learning.
