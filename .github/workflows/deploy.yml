@@ -64,6 +64,7 @@ on:
 permissions:
   contents: write
   id-token: write
+  pages: write
 
 jobs:
   build:
@@ -106,6 +107,7 @@ jobs:
           path: _site
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     environment:
       name: github-pages
