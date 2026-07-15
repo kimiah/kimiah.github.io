@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to NeurIPS 2024!
+Two papers accepted to NeurIPS 2024! One was featured on [MIT News](https://news.mit.edu/2024/researchers-reduce-bias-ai-models-while-preserving-improving-accuracy-1211).

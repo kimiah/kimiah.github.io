@@ -11,3 +11,6 @@ assets/libs/
 node_modules/
 vendor
 .idea
+# Local preview helpers (not for deploy)
+_config.local.yml
+dev.sh
